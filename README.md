@@ -6,6 +6,9 @@ Dash app that pulls University of Washington Department of Atmospheric Sciences 
  Sign up for an Openweather API key and go into the "secrets.ini" file and replace the {Your API key here} tag with your API key.</p>
  <p>In the future, I may try to deploy this app, but currently I don't have time to work out the deployment bugs!</p>
  
+ 
+![alt text](https://github.com/ahewett93/uw_wx_dash/blob/main/uw_wx_dash_demo.gif?raw=true)
+<br><br>
 ![alt text](https://github.com/ahewett93/uw_wx_dash/blob/main/uw_wx_1.PNG?raw=true)
 <br><br>
 ![alt text](https://github.com/ahewett93/uw_wx_dash/blob/main/uw_wx_2.PNG?raw=true)
